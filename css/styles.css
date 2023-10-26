@@ -96,8 +96,7 @@ img {
 }
 
 .menu-item {
-    position: relative;
-    color: #404bbf;
+   
 }
 
 .menu-item::after {
