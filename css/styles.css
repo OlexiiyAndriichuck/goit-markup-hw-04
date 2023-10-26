@@ -394,4 +394,9 @@ button {
     display: inline-block;
     margin-bottom: 16px;
 }
+
+.sotial-list-icon {
+    fill: none;
+    stroke: #FFFFFF;
+}
 /*===== /PAGE FOOTER/ =====*/
