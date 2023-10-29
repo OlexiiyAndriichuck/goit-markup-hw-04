@@ -498,6 +498,11 @@ button {
     background-color: #31d0aa;;
 }
 
+.sotial-list-link-footer,
+.sotial-list-link-footer:focus{
+    background-color: #31d0aa;;
+}
+
 .icons-container {
     align-items: baseline;
     margin-right: 120px;
@@ -571,7 +576,7 @@ button {
     justify-content: center;
     align-content: center;
     display: flex;
-    gap: 24px;
+    gap: 16px;
 }
 
 .sotial-list-icon {
