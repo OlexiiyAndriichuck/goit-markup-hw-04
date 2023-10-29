@@ -535,6 +535,7 @@ button {
     justify-content: center;
     align-content: center;
     display: flex;
+    gap: 24px;
 }
 
 .sotial-list-icon {
