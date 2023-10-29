@@ -492,7 +492,7 @@ button {
 
 .sotial-list-link:hover,
 .sotial-list-link:focus {
-    background-color: #31d0aa;
+    background-color: #404bbf;
 }
 
 .icons-container {
@@ -511,7 +511,7 @@ button {
 
 .sotial-list {
     display: flex; 
-    gap: 16px;
+    gap: 24px;
     padding-bottom: 0px;
     justify-content: center;
     align-items: center;  
