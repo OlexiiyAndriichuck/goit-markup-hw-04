@@ -495,10 +495,7 @@ button {
     background-color: #404bbf;
 }
 
-.sotial-list-link-footer,
-.sotial-list-link-footer:hover {
-    background-color: #31d0aa;;
-}
+
 
 .sotial-list-link-footer,
 .sotial-list-link-footer:focus{
@@ -547,7 +544,7 @@ button {
     display: flex;
     align-items: center;
     justify-content: center;
-
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .sotial-list-link-footer {
