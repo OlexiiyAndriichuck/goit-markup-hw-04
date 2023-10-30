@@ -495,7 +495,10 @@ button {
     background-color: #404bbf;
 }
 
-
+.sotial-list-link-footer,
+.sotial-list-link-footer:hover{
+    background-color: #31d0aa;;
+}
 
 .sotial-list-link-footer,
 .sotial-list-link-footer:focus{
